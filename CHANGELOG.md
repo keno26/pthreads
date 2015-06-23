@@ -1,3 +1,15 @@
+# Version 2.0.11
+
+Based on original krakjoe/pthreads 2.0.10 tag version.
+
+## Bugfixes
+
+* Fixed inherit globals from creator tls instead of global tls
+
+## Features
+
+* None
+
 # Version 2.0.10
 
 Based on original krakjoe/pthreads 2.0.10 tag version.
